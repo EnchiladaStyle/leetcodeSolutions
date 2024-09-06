@@ -1,3 +1,6 @@
+#returns the longest palindrome in a given string
+
+
 def longestPalindrome(s):
     
     longest = ""
