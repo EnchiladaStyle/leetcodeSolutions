@@ -1,3 +1,6 @@
+#returns true if the input is a set of valid open and close parenthesis. Returns false otherwise
+
+
 def validParenths(s):
     stack = ""
     pairs = {"}": "{", ")": "(", "]": "["}
